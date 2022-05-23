@@ -1,6 +1,6 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "Heroku-v2r",
+  "description": "将v2r部署在Heroku上",
   "keywords": [
     "v2ray VMess VLESS"
   ],
@@ -12,17 +12,17 @@
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb",
+      "value": "",
       "required": false
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ray",
+      "value": "/awer",
       "required": true
     }
   },
-  "website": "https://github.com/Lbingyi/HerokuXray",
-  "repository": "https://github.com/Lbingyi/HerokuXray",
+  "website": "",
+  "repository": "",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
